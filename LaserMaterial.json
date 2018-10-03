@@ -1,0 +1,112 @@
+{
+"global_speed_factor":1.0,
+"materials":[
+{
+  "name":"HDF 3mm",
+  "cost":4,
+  "cut":[2200,100],
+  "engrave":[6000,20]},
+  {
+  "name":"HDF 4mm",
+  "cost":4.5,
+  "cut":[1400,100],
+  "engrave":[6000,20]},
+  {
+  "name":"Pappel 3mm",
+  "cost":6.5,
+  "cut":[3800,100],
+  "engrave":[6000,20]},
+  {
+  "name":"Pappel 5mm",
+  "cost":7.5,
+  "cut":[3000,100],
+  "engrave":[6000,20]},
+  {
+  "name":"Buche 4mm",
+  "cost":8.5,
+  "cut":[1800,100],
+  "engrave":[4000,20]},
+  {
+  "name":"Buche 5mm",
+  "cost":10.0,
+  "cut":[1200,100],
+  "engrave":[4000,20]},
+  {
+  "name":"Buche 8mm",
+  "cost":14,
+  "cut":[750,100],
+  "engrave":[4000,20]},
+   {
+  "name":"Gabun 8mm",
+  "cost":10,
+  "cut":[1000,100],
+  "engrave":[5000,20]},
+   {
+  "name":"Gabun 10mm",
+  "cost":11,
+  "cut":[900,100],
+  "engrave":[4000,20]},
+   {
+  "name":"Plexi 3mm Opal",
+  "cost":3,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 3mm Kratzfest",
+  "cost":3.5,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 3mm Antireflex",
+  "cost":3.5,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 3mm Hellblau",
+  "cost":8,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 3mm Grau",
+  "cost":8,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 3mm Weiß",
+  "cost":2.5,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 3mm Schwarz",
+  "cost":3,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 2mm transparent",
+  "cost":2,
+  "cut":[1800,100],
+  "engrave":[5000,20]},
+   {
+  "name":"Plexi 5mm",
+  "cost":1000,
+  "cut":[1000,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 8mm klar",
+  "cost":1000,
+  "cut":[650,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Plexi 8mm schwarz",
+  "cost":1000,
+  "cut":[600,100],
+  "engrave":[5000,20]},
+  {
+  "name":"Spiegel",
+  "cost":1000,
+  "cut":[0,0],
+  "engrave":[6500,100]},
+
+
+]
+}
